@@ -1,2 +1,2 @@
 # CV
-My projects
+Önéletrajzomat kiegészítő projektek
