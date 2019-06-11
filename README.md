@@ -1,2 +1,2 @@
 # CV
-Önéletrajzomat kiegészítő projektek
+These projects were written in Hungarian language
